@@ -170,7 +170,7 @@ const AppSidebar = () => {
             }`}
           >
             <p>Copyright © {new Date().getFullYear()}</p>
-            <p>Powered By Connect & Team</p>
+            <p>Powered By Mayank Kumar Grade</p>
           </span>
         </SidebarFooter>
       </Sidebar>

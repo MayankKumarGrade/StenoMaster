@@ -324,7 +324,7 @@ const Page = () => {
         >
           <p>Copyright © {new Date().getFullYear()}</p>
           <p className="font-normal hidden sm:flex">|</p>
-          <p>Powered By Connect & Team</p>
+          <p>Powered By Mayank Kumar Grade</p>
         </span>
       </footer>
     </div>
